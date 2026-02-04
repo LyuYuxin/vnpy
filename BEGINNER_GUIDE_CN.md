@@ -231,6 +231,8 @@ from vnpy.app.cta_strategy import (
     BarData,
     TradeData,
     OrderData,
+    BarGenerator,
+    ArrayManager,
 )
 
 class MaCrossStrategy(CtaTemplate):
