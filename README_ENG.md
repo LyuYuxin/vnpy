@@ -6,6 +6,8 @@
 
 💬 Want to read this in **chinese** ? Go [**here**](README.md)
 
+📚 **New to quantitative trading?** Start here → [**Beginner's Quick Guide**](BEGINNER_GUIDE.md)
+
 <p align="center">
     <img src ="https://img.shields.io/badge/version-4.3.0-blueviolet.svg"/>
     <img src ="https://img.shields.io/badge/platform-windows|linux|macos-yellow.svg"/>

@@ -6,6 +6,8 @@
 
 💬 Want to read this in **english** ? Go [**here**](README_ENG.md)
 
+📚 **量化交易新手?** 先看这里 → [**新手快速入门指南**](BEGINNER_GUIDE_CN.md)
+
 <p align="center">
     <img src ="https://img.shields.io/badge/version-4.3.0-blueviolet.svg"/>
     <img src ="https://img.shields.io/badge/platform-windows|linux|macos-yellow.svg"/>
